@@ -1,14 +1,9 @@
 # Qt_Government_data_dashboard
 # 政府公開資料儀表板
-NFU CSIE 視窗程式專題
+NFU CSIE 視窗程式期末專題
+# 簡介
+使用中華民國統計資訊網API，分析其資料內容。
 # 環境設定
 1. 安裝Qt6.6或以上版本
-2. 複製路徑 Qt安裝資料夾\6.6.1\mingw_64\bin
-3. 點擊win11開始鍵，搜尋「編輯系統環境變數」
-4. 點擊「環境變數」
-5. 系統變數選擇Path，並點選「編輯」
-
-![](https://github.com/joshu0601/Qt_Government_data_dashboard/blob/main/pic/%E7%B3%BB%E7%B5%B1%E5%85%A7%E5%AE%B9.png)
-7. 點選「新增」，並貼上路徑
+2. 新增系統Path環境變數: Qt安裝資料夾\6.6.1\mingw_64\bin
    
-![](https://github.com/joshu0601/Qt_Government_data_dashboard/blob/main/pic/%E6%96%B0%E5%A2%9E%E7%92%B0%E5%A2%83%E8%AE%8A%E6%95%B8.png)

@@ -1,7 +1,7 @@
 # Qt_Government_data_dashboard
 # 政府公開資料儀表板
 NFU CSIE 視窗程式期末專題
-# 環境設定
+# 環境要求
 1. 安裝Qt6.6或以上版本
 2. 新增系統Path環境變數: Qt安裝資料夾\6.6.1\mingw_64\bin
    
